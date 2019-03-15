@@ -10,8 +10,3 @@ module HelloWorld
 end
 
 
-class Urliator
-    extend HelloWorld
-end
-
-Urliator.hello_world("hi")
